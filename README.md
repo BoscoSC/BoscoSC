@@ -1,4 +1,5 @@
-### Hi there 👋
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaoboscoc/)](https://www.linkedin.com/in/joaoboscoc/)
+### Hi there, eu sou João Bosco 👋
 
 <!--
 **BoscoSC/BoscoSC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
