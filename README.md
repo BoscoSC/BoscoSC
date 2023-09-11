@@ -1,10 +1,12 @@
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaoboscoc/)](https://www.linkedin.com/in/joaoboscoc/)
 ### Hi there, eu sou João Bosco 👋
-- 🌱 Atualmente aprendendo **Docker**
+- 🌱 Atualmente aprendendo: **Docker**
   
-- 📫 Como me contatar **jboscos.carvalho@gmail.com**
+- 📫 Como me contatar: **jboscos.carvalho@gmail.com** ou
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaoboscoc/)](https://www.linkedin.com/in/joaoboscoc/)
 
 - ⚡ Curiosidade **Eu amo jogar D&D 🎲**
+
+---
 
 ### 💻 Principais tecnologias
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
@@ -21,17 +23,6 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
 <br />
 
-<!--
-**BoscoSC/BoscoSC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Tundror's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tundror&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
